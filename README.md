@@ -48,26 +48,26 @@ Conducted daily spot checks for reports produced by 18 consultants to assure tha
 
 College Admission Status
 
-Worked on the College Admissions dataset in R using Classification Tree to determine the outcome of admission.
+1. Worked on the College Admissions dataset in R using Classification Tree to determine the outcome of admission.
 
-Used Training and Validation sets and ran confusion matrix to calculate the sensitivity and specificity of the model.
+2. Used Training and Validation sets and ran confusion matrix to calculate the sensitivity and specificity of the model.
 
-Worked on Data Visualization using Tableau by importing R data and creating Dashboards.
+3. Worked on Data Visualization using Tableau by importing R data and creating Dashboards.
 
 Longitudinal Data Survey
 
-Analyzed the effect of character, environment and race on Income of individuals who grew up around 1979.
+1. Analyzed the effect of character, environment and race on Income of individuals who grew up around 1979.
 
-Conducted multiple Regression Analysis on MS Excel and R to analyze the effects of variables on Income.
+2. Conducted multiple Regression Analysis on MS Excel and R to analyze the effects of variables on Income.
 
-Executed Pivot Tables to group variables to analyze data among different variable sets.
+3. Executed Pivot Tables to group variables to analyze data among different variable sets.
 
 Students' Mental Health
 
-Used data manipulation skills in PostgreSQL to perform analysis on a dataset around mental health of students.
+1. Used data manipulation skills in PostgreSQL to perform analysis on a dataset around mental health of students.
 
-Handled Intermediate SQL functions like COUNT, ROUND, GROUP BY, WHERE etc. to categorize, filter data and create reports.
+2. Handled Intermediate SQL functions like COUNT, ROUND, GROUP BY, WHERE etc. to categorize, filter data and create reports.
         
-Analyzed the data to see how the length of stay impacts the average mental health diagnostic scores.
+3. Analyzed the data to see how the length of stay impacts the average mental health diagnostic scores.
 
 

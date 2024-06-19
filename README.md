@@ -4,7 +4,9 @@ Portfolio of the Data Projects
 ### EXECUTIVE SUMMARY
 Highly motivated analyst with 3 years of academic background in Data Analytics who can easily adapt to new environments that require quick ramp-up time and execution. Core competencies include:
 > 3+ years of analyst experience with strong focus on receiving, cleaning, analyzing and visualizing data.
+
 > 6+ years of operations & people management experience with responsibilities on mentoring new recruits.
+
 > Task planning & scheduling, cross-functional leadership, and strong desire for learning new concepts and execution
 
 

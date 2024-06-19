@@ -22,7 +22,9 @@ Activities: Secretary- Society of Physics Students (SPS), IEEE, American Computi
 
 ### WORK EXPERIENCE
 
-Client Services Consultant - Wells Fargo | Minneapolis, MN       Jan 2019- May 2022
+Client Services Consultant - Wells Fargo | Minneapolis, MN       
+
+Jan 2019- May 2022
 
 > Performed back-office operations and paperwork during corporate action events such as IPO, mergers, dissolution/liquidation, tender offers, and proxy processing for Trust clients.
 
@@ -31,7 +33,9 @@ Client Services Consultant - Wells Fargo | Minneapolis, MN       Jan 2019- May 2
 > Mentored and trained 3 new hires by creating training plans that reduced the onboarding period by 20%.
 
 
-Financial Due Diligence Analyst- Wells Fargo | Minneapolis, MN   May 17- Dec. 18
+Financial Due Diligence Analyst- Wells Fargo | Minneapolis, MN   
+
+May 17- Dec. 18
 
 > Executed comprehensive research and background investigations using LexisNexis and Alacra in accordance with Anti-Money Laundering (AML) and other regulatory standards to mitigate risks.
 

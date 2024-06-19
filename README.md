@@ -68,4 +68,3 @@ Students' Mental Health
         > Analyzed the data to see how the length of stay impacts the average mental health diagnostic scores.
 
 
-        
